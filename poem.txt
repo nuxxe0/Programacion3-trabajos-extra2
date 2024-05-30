@@ -1,0 +1,18 @@
+--RECIBO--
+Inv Rec Number: 1
+Lease Number: 32
+Company Name: 31254354
+How Invoiced: 3215435
+Ar Number: 4
+Invoice Number: 1
+Start Date: 321323
+End Date: 455435321
+Ptinted: 66
+Invoice Month: 543
+Charge: 44
+Date Entered: 5555
+Rental Rate: 5435
+Car: 7
+Icode: 55
+Comments: Bueno
+Subls: 321321
